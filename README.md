@@ -17,4 +17,5 @@ installed (`brew uninstall --cask zapinator` puts everything back; add
 
 No Homebrew? `curl -fsSL https://zapinator.kunalbagaria.com | bash`
 
-The cask is updated by the release script in the main project.
+Source code, docs and the release script that updates this cask:
+[KunalBagaria/zapinator](https://github.com/KunalBagaria/zapinator).
